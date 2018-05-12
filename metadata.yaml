@@ -1,0 +1,30 @@
+_repo: My-Fire-Opal-and-Other-Tales_39815
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39815-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brooks, Sarah Warner
+    birthdate: 1822
+    deathdate: 1906
+    gutenberg_agent_id: '40246'
+    url: http://www.gutenberg.org/2009/agents/40246
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Prisoners -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: My fire opal -- The story of John Gravesend -- A bunch of violets
+  -- A disastrous sleigh-ride -- Tuckered out -- A prison child -- Escaped.
+title: My Fire Opal, and Other Tales
+url: http://www.gutenberg.org/ebooks/39815
